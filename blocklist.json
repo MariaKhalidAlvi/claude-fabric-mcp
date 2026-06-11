@@ -1,0 +1,6 @@
+{
+  "_comment": "Tables the MCP server will refuse to query. Add schema.table or just table name.",
+  "blocked_tables": [
+    "candela.shop_dim"
+  ]
+}
