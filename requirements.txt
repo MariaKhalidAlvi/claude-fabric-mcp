@@ -1,0 +1,5 @@
+mcp[cli]
+azure-identity
+pyodbc
+python-dotenv
+requests
